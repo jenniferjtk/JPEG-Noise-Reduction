@@ -13,15 +13,15 @@ Save final output as a blurred PPM
 Folder Structure
 
 JPEG-Noise-Reduction/
-├── convertJPG.py      # Python script (JPEG → PPM)
-├── driverJPEG.c       # Main C program (handles I/O and function calls)
-├── ppmBlur.c          # All PPM handling functions (reading, writing, blurring)
-├── ppm.h              # Header file for struct definitions & function prototypes
-├── input.jpg          # Example input image (JPEG)
-├── input.ppm          # Generated PPM from `input.jpg`
-├── output.ppm         # Blurred result
-├── venv/              # (Optional) Python virtual environment
-└── README.md          # This file
+|-- convertJPG.py      # Python script (JPEG → PPM)
+|-- driverJPEG.c       # Main C program (handles I/O and function calls)
+|-- ppmBlur.c          # All PPM handling functions (reading, writing, blurring)
+|-- ppm.h              # Header file for struct definitions & function prototypes
+|-- input.jpg          # Example input image (JPEG)
+|-- input.ppm          # Generated PPM from `input.jpg`
+|-- output.ppm         # Blurred result
+|-- venv/              # (Optional) Python virtual environment
+|-- README.md          # This file
 
 
 Requirements
