@@ -77,7 +77,8 @@ applyBlur() reads each pixel in a 3×3 neighborhood, summing color values and av
 
 Contact
 
-Name: Jennifer JohnsonEmail: jgj4@clemson.eduGitHub Profile
+Name: Jennifer Johnson
+Email: jgj4@clemson.edu
 
 Enjoy blurring your images in C! 
 
