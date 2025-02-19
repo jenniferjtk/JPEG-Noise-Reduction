@@ -63,7 +63,7 @@ This reads input.ppm and creates a blurred image output.ppm.
 
 Screenshots
 
-You can view an example of this program in the root directory under screenshot1.png and screenshot2.png.
+You can view an example of this program in the root directory under input.jpg and output.jpg
 
 How It Works
 
